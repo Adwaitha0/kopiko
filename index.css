@@ -1,0 +1,91 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: black;
+}
+html, body {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+
+.heading{
+   padding: 20px;
+   color: rgb(176, 172, 168);
+}
+.heading p{
+    letter-spacing: 4px;
+}
+.heading h1{
+    letter-spacing: 4px;
+}
+hr{
+    border: none;
+    height: 2px; 
+    background-color: rgb(176, 172, 168); 
+    margin: 0; 
+    width: 100%;
+}
+
+/*------------------------------------------------nav bar----------------------------------------*/
+
+
+.nav-link{
+    color:rgb(176, 172, 168);
+}
+.navbar-nav{
+    margin: 0 auto;
+}
+.nav-item{
+    justify-content: center;
+}
+/*--------------------------------------------img-1--------------------------------------------*/
+.candy{
+    color: rgb(176, 172, 168);
+    padding: 40px  ;
+}
+.img1 img{
+    
+    height:auto;
+    width: 60%;
+}
+.para1{
+    color: rgb(176, 172, 168);
+    padding: 0 12%;
+    background-color: black;
+    
+}
+.para1 p{
+  font-size: 18px; 
+  text-align: left; 
+}
+.image-first{
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+/*----------------------------------------------img-2-------------------------------------------*/
+.images img{
+    width: 82%;
+    padding-top: 3%;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.para2{
+    color: rgb(176, 172, 168);
+    padding: 0 11%;
+}
+.para2 p{
+    font-size: 18px; 
+    text-align: left; 
+    padding-top: 3%;
+  }
+.images.row{
+    padding: 0 20%;
+    padding-right: 5%;
+    padding-left: 5%;
+}
+.carousel1{
+    width: 70%;
+    padding-left: 30%;
+}
